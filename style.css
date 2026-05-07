@@ -12,3 +12,21 @@ body {
 ul {
   list-style: none;
 }
+
+.nav-bar {
+    background-color: #1F2937;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 25px 40px;
+}
+
+.logo {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.navmenu {
+    display: flex;
+    gap: 15px;
+}
